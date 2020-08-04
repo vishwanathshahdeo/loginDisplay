@@ -1,0 +1,24 @@
+[
+  {
+  "id": 1,
+  "name": "Sakura Sunrise", 
+  "imageUrl": "https://presto-resources.s3.amazonaws.com/android__menueditor_images__/images/dynamic/KIaecKJUEeqcuIyFkDJJSQ.jpg",
+  "rate": 200,
+  "quality": 1
+  
+},
+{
+  "id": 2,
+  "name": "Coconut Punch",
+  "imageUrl": "https://presto-resources.s3.amazonaws.com/android__menueditor_images__/images/dynamic/M_bm3qJUEeqP0oyFkDJJSQ.jpg",
+  "rate": "198",
+  "quality": 2
+},
+{
+  "id": 3,
+  "name": "Hot Green Tea",
+  "imageUrl": "https://presto-resources.s3.amazonaws.com/android__menueditor_images__/images/dynamic/OzmuK6JUEeqLuYyFkDJJSQ.jpg",
+  "rate": "196",
+  "quality": 2
+}
+]
